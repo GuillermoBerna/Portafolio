@@ -61,7 +61,9 @@ body {
   line-height: 1.5;
   color: #4188c6;
   text-align: left;
-  background-color: #33363a
+  --tw-bg-opacity: 1;
+  background-color: rgb(3 7 18 / var(--tw-bg-opacity));
+  background-image: radial-gradient(ellipse 80% 80% at 50% -20%, #7877c64d, #fff0);
 }
 
 

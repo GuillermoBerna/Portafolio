@@ -1,7 +1,7 @@
 (function ($) {
     "use strict";
 
-    // Navbar on scrolling
+    // Navbar scrolling
     $(window).scroll(function () {
         if ($(this).scrollTop() > 200) {
             $('.navbar').fadeIn('slow').css('display', 'flex');
